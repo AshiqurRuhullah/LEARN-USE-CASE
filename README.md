@@ -1,2 +1,3 @@
 # USE-CASE
-You Will LEarn and kno about Use Case Diagram from this PDF File. 
+You Will Learn and know about Use Case Diagram from this PDF File. 
+
